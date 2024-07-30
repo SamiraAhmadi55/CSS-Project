@@ -11,7 +11,7 @@ height: 400px;
 .navbar{
   position: fixed;
   background-color: rgba(0, 0, 0, 0.055); 
-  width: 1350px;
+  width: 1349px;
   height: 60px;
   z-index: 1;
   }
